@@ -1,0 +1,2 @@
+"C:\Program Files (x86)\Power Automate Desktop\PAD.Console.Host.exe"
+ms-powerautomate:/console/flow/run?environmentid=Default-1460ca8c-11ee-445c-b9ba-6bcdd25d0019&workflowid=87bbae49-8149-ef11-a316-6045bd5ae8e2&source=Other
